@@ -1,5 +1,5 @@
 # 💫 About Me:
-FullStack JavaScript<br>Desenvolvedor React e Angular<br>BackEnd Java
+FullStack JavaScript<br>
 
 
 ## 🌐 Socials:
